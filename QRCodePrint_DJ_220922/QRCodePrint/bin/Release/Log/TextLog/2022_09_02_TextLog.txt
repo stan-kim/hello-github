@@ -1,0 +1,69 @@
+[10:32:22:239]===========Program Loading==========
+[10:32:22:255]Process Count Load
+[10:32:22:265]Process Count file not Exists
+[10:32:22:265]port setup file load
+[10:32:22:266]port setup file not Exists
+[10:32:22:267]IP :192.168.3.1,PORT:9100 Connect Try
+[10:32:22:280]TCP/IP Connect OK
+[10:32:22:281]Serial :COM1 Connect Try
+[10:32:22:281]BaudRate :9600
+[10:32:22:290]SERIAL PORT OPEN FAIL
+[10:32:34:345]Serial :COM5 Connect Try
+[10:32:34:347]BaudRate :9600
+[10:33:25:364]===========Program Close==========
+[10:39:02:404]===========Program Loading==========
+[10:39:02:409]Process Count Load
+[10:39:02:417]Process Count file not Exists
+[10:39:02:419]port setup file load
+[10:39:02:422]IP :192.168.3.1,PORT:9100 Connect Try
+[10:39:02:434]TCP/IP Connect OK
+[10:39:02:436]Serial :COM5 Connect Try
+[10:39:02:437]BaudRate :9600
+[10:39:04:471]===========Program Close==========
+[10:40:01:850]===========Program Loading==========
+[10:40:01:853]Process Count Load
+[10:40:01:859]Process Count file not Exists
+[10:40:01:860]port setup file load
+[10:40:01:861]IP :192.168.3.1,PORT:9100 Connect Try
+[10:40:01:872]TCP/IP Connect OK
+[10:40:01:872]Serial :COM5 Connect Try
+[10:40:01:872]BaudRate :9600
+[10:40:05:530]===========Program Close==========
+[11:31:55:648]===========Program Loading==========
+[11:31:55:655]Process Count Load
+[11:31:55:659]Process Count file not Exists
+[11:31:55:660]port setup file load
+[11:31:55:662]IP :192.168.3.1,PORT:9100 Connect Try
+[11:32:16:715]TCP/IP Connect FAIL
+[11:32:16:717]Serial :COM5 Connect Try
+[11:32:16:719]BaudRate :9600
+[11:32:16:738]SERIAL PORT OPEN FAIL
+[11:32:20:734]===========Program Close==========
+[16:39:15:047]===========Program Loading==========
+[16:39:15:055]Process Count Load
+[16:39:15:079]Process Count file not Exists
+[16:39:15:080]port setup file load
+[16:39:15:082]IP :192.168.3.1,PORT:9100 Connect Try
+[16:39:15:101]TCP/IP Connect FAIL
+[16:39:15:103]Serial :COM5 Connect Try
+[16:39:15:104]BaudRate :9600
+[16:39:15:122]SERIAL PORT OPEN FAIL
+[16:39:36:464]===========Program Loading==========
+[16:39:36:469]Process Count Load
+[16:39:36:487]Process Count file not Exists
+[16:39:36:489]port setup file load
+[16:39:36:490]IP :192.168.3.1,PORT:9100 Connect Try
+[16:39:36:505]TCP/IP Connect FAIL
+[16:39:36:506]Serial :COM5 Connect Try
+[16:39:36:507]BaudRate :9600
+[16:39:36:522]SERIAL PORT OPEN FAIL
+[16:39:58:809]===========Program Close==========
+[16:48:19:324]===========Program Loading==========
+[16:48:19:330]Process Count Load
+[16:48:19:352]Process Count file not Exists
+[16:48:19:354]port setup file load
+[16:48:19:357]IP :192.168.3.1,PORT:9100 Connect Try
+[16:48:19:381]TCP/IP Connect FAIL
+[16:48:19:383]Serial :COM5 Connect Try
+[16:48:19:384]BaudRate :9600
+[16:48:19:404]SERIAL PORT OPEN FAIL

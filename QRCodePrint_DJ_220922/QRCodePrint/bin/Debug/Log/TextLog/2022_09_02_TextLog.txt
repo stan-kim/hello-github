@@ -1,0 +1,590 @@
+[08:40:23:675]===========Program Loading==========
+[08:40:23:688]Process Count Load
+[08:40:23:691]port setup file load
+[08:40:23:693]IP :192.168.3.1,PORT:9100 Connect Try
+[08:40:44:812]TCP/IP Connect FAIL
+[08:41:16:269]IP :192.168.3.1,PORT:9100 Connect Try
+[08:41:37:359]TCP/IP Connect FAIL
+[08:41:53:285]IP :192.168.3.1,PORT:9100 Connect Try
+[08:41:53:293]TCP/IP Connect OK
+[08:41:54:920]Serial :COM5 Connect Try
+[08:41:54:921]BaudRate :9600
+[08:50:02:528]===========Program Loading==========
+[08:50:02:544]Process Count Load
+[08:50:02:546]port setup file load
+[08:50:02:547]IP :192.168.3.1,PORT:9100 Connect Try
+[08:50:02:561]TCP/IP Connect OK
+[08:50:06:975]Serial :COM5 Connect Try
+[08:50:06:976]BaudRate :9600
+[08:51:41:032]===========Program Loading==========
+[08:51:41:036]Process Count Load
+[08:51:41:038]port setup file load
+[08:51:41:040]IP :192.168.3.1,PORT:9100 Connect Try
+[08:51:41:054]TCP/IP Connect OK
+[09:06:28:415]===========Program Loading==========
+[09:06:28:421]Process Count Load
+[09:06:28:423]port setup file load
+[09:06:28:425]IP :192.168.3.1,PORT:9100 Connect Try
+[09:06:28:440]TCP/IP Connect OK
+[09:06:28:442]Serial :COM5 Connect Try
+[09:06:28:442]BaudRate :9600
+[09:06:38:591]Serial recive fail
+[09:06:41:025]Serial recive fail
+[09:07:50:167]===========Program Loading==========
+[09:07:50:172]Process Count Load
+[09:07:50:173]port setup file load
+[09:07:50:175]IP :192.168.3.1,PORT:9100 Connect Try
+[09:08:22:968]===========Program Loading==========
+[09:08:22:975]Process Count Load
+[09:08:22:998]port setup file load
+[09:08:23:002]IP :192.168.3.1,PORT:9100 Connect Try
+[09:08:44:317]TCP/IP Connect FAIL
+[09:08:44:318]Serial :COM5 Connect Try
+[09:08:44:319]BaudRate :9600
+[09:09:06:474]IP :192.168.3.1,PORT:9100 Connect Try
+[09:09:06:483]TCP/IP Connect OK
+[09:09:40:403]Serial recive fail
+[09:09:42:840]Serial recive fail
+[09:09:42:858]Serial Command Write fail
+[09:09:45:300]Serial recive fail
+[09:09:45:314]Serial Command Write fail
+[09:09:47:758]Serial recive fail
+[09:09:47:768]Serial Command Write fail
+[09:09:50:205]Serial recive fail
+[09:09:50:217]Serial Command Write fail
+[09:09:52:662]Serial recive fail
+[09:09:52:677]Serial Command Write fail
+[09:09:55:113]Serial recive fail
+[09:09:55:126]Serial Command Write fail
+[09:09:57:592]Serial recive fail
+[09:09:57:612]Serial Command Write fail
+[09:10:00:050]Serial recive fail
+[09:10:00:064]Serial Command Write fail
+[09:10:02:521]Serial recive fail
+[09:10:02:553]Serial Command Write fail
+[09:10:04:999]Serial recive fail
+[09:10:05:041]Serial Command Write fail
+[09:10:07:514]Serial recive fail
+[09:10:07:530]Serial Command Write fail
+[09:10:09:974]Serial recive fail
+[09:10:09:988]Serial Command Write fail
+[09:10:12:457]Serial recive fail
+[09:10:12:470]Serial Command Write fail
+[09:10:14:912]Serial recive fail
+[09:10:14:928]Serial Command Write fail
+[09:10:17:380]Serial recive fail
+[09:10:17:394]Serial Command Write fail
+[09:10:19:848]Serial recive fail
+[09:11:48:146]===========Program Loading==========
+[09:11:48:151]Process Count Load
+[09:11:48:153]port setup file load
+[09:11:48:155]IP :192.168.3.1,PORT:9100 Connect Try
+[09:12:10:880]===========Program Loading==========
+[09:12:10:885]Process Count Load
+[09:12:10:886]port setup file load
+[09:12:10:888]IP :192.168.3.1,PORT:9100 Connect Try
+[09:12:10:907]TCP/IP Connect OK
+[09:12:10:923]Serial :COM5 Connect Try
+[09:12:10:924]BaudRate :9600
+[09:12:44:828]===========Program Loading==========
+[09:12:44:835]Process Count Load
+[09:12:44:836]port setup file load
+[09:12:44:856]IP :192.168.3.1,PORT:9100 Connect Try
+[09:12:44:868]TCP/IP Connect OK
+[09:12:44:870]Serial :COM5 Connect Try
+[09:12:44:872]BaudRate :9600
+[09:12:45:530]Serial recive fail
+[09:12:45:533]Serial recive fail
+[09:12:45:536]Serial recive fail
+[09:12:45:539]Serial recive fail
+[09:12:45:558]Serial recive fail
+[09:12:45:560]Serial recive fail
+[09:12:45:564]Serial recive fail
+[09:12:45:589]Serial recive fail
+[09:12:45:598]Serial recive fail
+[09:12:45:844]Serial recive fail
+[09:12:45:848]Serial recive fail
+[09:12:45:867]Serial recive fail
+[09:12:45:869]Serial recive fail
+[09:12:45:870]Serial recive fail
+[09:12:45:881]Serial recive fail
+[09:12:45:899]Serial recive fail
+[09:12:45:916]Serial recive fail
+[09:17:11:319]===========Program Loading==========
+[09:17:11:324]Process Count Load
+[09:17:11:326]port setup file load
+[09:17:11:327]IP :192.168.3.1,PORT:9100 Connect Try
+[09:17:11:340]TCP/IP Connect OK
+[09:17:11:341]Serial :COM5 Connect Try
+[09:17:11:342]BaudRate :9600
+[09:22:09:405]===========Program Loading==========
+[09:22:09:410]Process Count Load
+[09:22:09:412]port setup file load
+[09:22:09:413]IP :192.168.3.1,PORT:9100 Connect Try
+[09:22:09:426]TCP/IP Connect OK
+[09:22:09:439]Serial :COM5 Connect Try
+[09:22:09:439]BaudRate :9600
+[09:23:38:996]===========Program Loading==========
+[09:23:38:999]Process Count Load
+[09:23:39:001]port setup file load
+[09:23:39:002]IP :192.168.3.1,PORT:9100 Connect Try
+[09:23:39:015]TCP/IP Connect OK
+[09:23:39:016]Serial :COM5 Connect Try
+[09:23:39:016]BaudRate :9600
+Log Display Exception
+[09:23:47:097]Serial recive fail
+Log Display Exception
+[09:23:49:268]Serial recive fail
+Log Display Exception
+[09:23:49:280]Serial Command Write fail
+Log Display Exception
+[09:23:51:436]Serial recive fail
+Log Display Exception
+[09:23:51:450]Serial Command Write fail
+Log Display Exception
+[09:23:53:608]Serial recive fail
+Log Display Exception
+[09:23:53:639]Serial Command Write fail
+Log Display Exception
+[09:23:55:817]Serial recive fail
+Log Display Exception
+[09:23:55:833]Serial Command Write fail
+Log Display Exception
+[09:23:58:001]Serial recive fail
+Log Display Exception
+[09:23:58:014]Serial Command Write fail
+Log Display Exception
+[09:24:00:182]Serial recive fail
+Log Display Exception
+[09:24:00:202]Serial Command Write fail
+Log Display Exception
+[09:24:02:375]Serial recive fail
+Log Display Exception
+[09:24:02:389]Serial Command Write fail
+Log Display Exception
+[09:24:04:564]Serial recive fail
+Log Display Exception
+[09:24:04:578]Serial Command Write fail
+Log Display Exception
+[09:24:06:757]Serial recive fail
+Log Display Exception
+[09:24:06:771]Serial Command Write fail
+Log Display Exception
+[09:24:08:930]Serial recive fail
+Log Display Exception
+[09:24:09:032]Serial Command Write fail
+Log Display Exception
+[09:24:11:216]Serial recive fail
+Log Display Exception
+[09:24:11:232]Serial Command Write fail
+Log Display Exception
+[09:24:13:391]Serial recive fail
+[09:25:17:639]===========Program Loading==========
+[09:25:17:642]Process Count Load
+[09:25:17:643]port setup file load
+[09:25:17:644]IP :192.168.3.1,PORT:9100 Connect Try
+[09:25:27:415]===========Program Loading==========
+[09:25:27:421]Process Count Load
+[09:25:27:422]port setup file load
+[09:25:27:424]IP :192.168.3.1,PORT:9100 Connect Try
+[09:25:27:464]TCP/IP Connect OK
+[09:25:27:466]Serial :COM5 Connect Try
+[09:25:27:467]BaudRate :9600
+Log Display Exception
+[09:25:34:374]Serial recive fail
+Log Display Exception
+[09:25:36:538]Serial recive fail
+Log Display Exception
+[09:25:36:669]Serial Command Write fail
+Log Display Exception
+[09:25:38:858]Serial recive fail
+Log Display Exception
+[09:25:38:892]Serial Command Write fail
+Log Display Exception
+[09:25:41:144]Serial recive fail
+Log Display Exception
+[09:25:41:161]Serial Command Write fail
+Log Display Exception
+[09:25:43:338]Serial recive fail
+Log Display Exception
+[09:25:43:355]Serial Command Write fail
+Log Display Exception
+[09:25:45:527]Serial recive fail
+Log Display Exception
+[09:25:45:540]Serial Command Write fail
+Log Display Exception
+[09:25:47:712]Serial recive fail
+Log Display Exception
+[09:25:47:727]Serial Command Write fail
+Log Display Exception
+[09:25:49:898]Serial recive fail
+Log Display Exception
+[09:25:49:915]Serial Command Write fail
+Log Display Exception
+[09:25:52:085]Serial recive fail
+Log Display Exception
+[09:25:52:101]Serial Command Write fail
+Log Display Exception
+[09:25:54:266]Serial recive fail
+Log Display Exception
+[09:25:54:279]Serial Command Write fail
+Log Display Exception
+[09:26:01:306]Serial recive fail
+[09:27:44:890]===========Program Loading==========
+[09:27:44:894]Process Count Load
+[09:27:44:896]port setup file load
+[09:27:44:898]IP :192.168.3.1,PORT:9100 Connect Try
+[09:28:05:985]TCP/IP Connect FAIL
+[09:28:05:989]Serial :COM5 Connect Try
+[09:28:05:991]BaudRate :9600
+[09:28:08:759]IP :192.168.3.1,PORT:9100 Connect Try
+[09:28:08:762]TCP/IP Connect OK
+Log Display Exception
+[09:28:17:479]Serial recive fail
+Log Display Exception
+[09:28:17:623]Serial Command Write fail
+Log Display Exception
+[09:28:20:045]Serial recive fail
+Log Display Exception
+[09:28:20:060]Serial Command Write fail
+Log Display Exception
+[09:28:22:395]Serial recive fail
+Log Display Exception
+[09:28:22:410]Serial Command Write fail
+Log Display Exception
+[09:28:24:729]Serial recive fail
+Log Display Exception
+[09:28:24:749]Serial Command Write fail
+Log Display Exception
+[09:28:27:075]Serial recive fail
+Log Display Exception
+[09:28:27:089]Serial Command Write fail
+Log Display Exception
+[09:28:29:461]Serial recive fail
+Log Display Exception
+[09:28:29:477]Serial Command Write fail
+Log Display Exception
+[09:28:31:890]Serial recive fail
+Log Display Exception
+[09:28:31:946]Serial Command Write fail
+Log Display Exception
+[09:28:34:319]Serial recive fail
+Log Display Exception
+[09:28:34:329]Serial Command Write fail
+Log Display Exception
+[09:28:36:754]Serial recive fail
+Log Display Exception
+[09:28:36:765]Serial Command Write fail
+Log Display Exception
+[09:28:39:100]Serial recive fail
+Log Display Exception
+[09:28:39:225]Serial Command Write fail
+Log Display Exception
+[09:28:41:558]Serial recive fail
+Log Display Exception
+[09:28:41:635]Serial Command Write fail
+Log Display Exception
+[09:28:44:045]Serial recive fail
+Log Display Exception
+[09:28:44:059]Serial Command Write fail
+Log Display Exception
+[09:28:46:324]Serial recive fail
+Log Display Exception
+[09:28:46:337]Serial Command Write fail
+Log Display Exception
+[09:28:48:688]Serial recive fail
+Log Display Exception
+[09:28:48:700]Serial Command Write fail
+Log Display Exception
+[09:28:51:028]Serial recive fail
+Log Display Exception
+[09:28:51:040]Serial Command Write fail
+Log Display Exception
+[09:28:53:374]Serial recive fail
+Log Display Exception
+[09:28:53:389]Serial Command Write fail
+Log Display Exception
+[09:28:55:672]Serial recive fail
+Log Display Exception
+[09:28:55:684]Serial Command Write fail
+Log Display Exception
+[09:28:58:010]Serial recive fail
+Log Display Exception
+[09:28:58:022]Serial Command Write fail
+Log Display Exception
+[09:29:00:331]Serial recive fail
+[09:29:01:135]Serial :COM5 Connect Try
+[09:29:01:136]BaudRate :9600
+[09:30:27:133]===========Program Loading==========
+[09:30:27:138]Process Count Load
+[09:30:27:139]port setup file load
+[09:30:27:140]IP :192.168.3.1,PORT:9100 Connect Try
+[09:30:27:153]TCP/IP Connect OK
+[09:30:27:154]Serial :COM5 Connect Try
+[09:30:27:154]BaudRate :9600
+Log Display Exception
+[09:30:32:367]Serial recive fail
+Log Display Exception
+[09:30:32:386]Serial Command Write fail
+Log Display Exception
+[09:30:34:771]Serial recive fail
+Log Display Exception
+[09:30:34:790]Serial Command Write fail
+Log Display Exception
+[09:30:37:152]Serial recive fail
+Log Display Exception
+[09:30:37:281]Serial Command Write fail
+Log Display Exception
+[09:30:39:684]Serial recive fail
+Log Display Exception
+[09:30:39:702]Serial Command Write fail
+Log Display Exception
+[09:30:42:051]Serial recive fail
+Log Display Exception
+[09:30:42:070]Serial Command Write fail
+Log Display Exception
+[09:30:44:406]Serial recive fail
+Log Display Exception
+[09:30:44:428]Serial Command Write fail
+Log Display Exception
+[09:30:46:822]Serial recive fail
+Log Display Exception
+[09:30:46:847]Serial Command Write fail
+Log Display Exception
+[09:30:49:229]Serial recive fail
+Log Display Exception
+[09:30:49:248]Serial Command Write fail
+Log Display Exception
+[09:30:51:663]Serial recive fail
+Log Display Exception
+[09:30:51:677]Serial Command Write fail
+Log Display Exception
+[09:30:53:992]Serial recive fail
+Log Display Exception
+[09:30:54:005]Serial Command Write fail
+Log Display Exception
+[09:30:56:301]Serial recive fail
+Log Display Exception
+[09:30:56:382]Serial Command Write fail
+Log Display Exception
+[09:30:58:749]Serial recive fail
+[09:31:03:459]Serial :COM5 Connect Try
+[09:31:03:461]BaudRate :9600
+[09:31:03:493]SERIAL PORT OPEN FAIL
+[09:31:16:396]Serial :COM5 Connect Try
+[09:31:16:397]BaudRate :9600
+[09:31:16:441]SERIAL PORT OPEN FAIL
+[09:31:19:329]Serial :COM5 Connect Try
+[09:31:19:330]BaudRate :9600
+[09:31:19:482]SERIAL PORT OPEN FAIL
+[09:31:20:324]Serial :COM5 Connect Try
+[09:31:20:326]BaudRate :9600
+[09:31:20:478]SERIAL PORT OPEN FAIL
+[09:31:31:413]Serial :COM5 Connect Try
+[09:31:31:415]BaudRate :9600
+[09:31:33:542]SERIAL PORT OPEN FAIL
+[09:31:33:548]Serial :COM5 Connect Try
+[09:31:33:549]BaudRate :9600
+[09:31:33:696]SERIAL PORT OPEN FAIL
+[09:31:36:959]Serial :COM5 Connect Try
+[09:31:36:961]BaudRate :9600
+[09:31:37:102]SERIAL PORT OPEN FAIL
+[09:31:38:072]Serial :COM5 Connect Try
+[09:31:38:073]BaudRate :9600
+[09:31:38:215]SERIAL PORT OPEN FAIL
+[09:32:02:760]Serial :COM5 Connect Try
+[09:32:02:762]BaudRate :9600
+[09:32:02:906]SERIAL PORT OPEN FAIL
+[09:32:03:995]Serial :COM5 Connect Try
+[09:32:03:996]BaudRate :9600
+[09:32:04:140]SERIAL PORT OPEN FAIL
+[09:32:05:694]Serial :COM5 Connect Try
+[09:32:05:696]BaudRate :9600
+[09:32:05:838]SERIAL PORT OPEN FAIL
+[09:32:52:724]===========Program Loading==========
+[09:32:52:727]Process Count Load
+[09:32:52:728]port setup file load
+[09:32:52:730]IP :192.168.3.1,PORT:9100 Connect Try
+[09:32:52:742]TCP/IP Connect OK
+[09:32:52:744]Serial :COM5 Connect Try
+[09:32:52:745]BaudRate :9600
+[09:34:30:941]===========Program Loading==========
+[09:34:30:945]Process Count Load
+[09:34:30:946]port setup file load
+[09:34:30:948]IP :192.168.3.1,PORT:9100 Connect Try
+[09:34:30:965]TCP/IP Connect OK
+[09:34:30:974]Serial :COM5 Connect Try
+[09:34:30:975]BaudRate :9600
+Log Display Exception
+[09:34:36:325]Serial recive fail
+Log Display Exception
+[09:34:36:339]Serial Command Write fail
+Log Display Exception
+[09:34:38:626]Serial recive fail
+Log Display Exception
+[09:34:38:755]Serial Command Write fail
+Log Display Exception
+[09:34:41:082]Serial recive fail
+Log Display Exception
+[09:34:41:099]Serial Command Write fail
+Log Display Exception
+[09:34:43:440]Serial recive fail
+Log Display Exception
+[09:34:43:451]Serial Command Write fail
+Log Display Exception
+[09:34:45:840]Serial recive fail
+Log Display Exception
+[09:34:45:853]Serial Command Write fail
+Log Display Exception
+[09:34:48:165]Serial recive fail
+Log Display Exception
+[09:34:48:185]Serial Command Write fail
+Log Display Exception
+[09:34:50:465]Serial recive fail
+Log Display Exception
+[09:34:50:479]Serial Command Write fail
+Log Display Exception
+[09:34:52:817]Serial recive fail
+Log Display Exception
+[09:34:52:830]Serial Command Write fail
+Log Display Exception
+[09:34:55:179]Serial recive fail
+Log Display Exception
+[09:34:55:193]Serial Command Write fail
+Log Display Exception
+[09:34:57:502]Serial recive fail
+Log Display Exception
+[09:34:57:517]Serial Command Write fail
+Log Display Exception
+[09:34:59:837]Serial recive fail
+[09:35:10:585]Serial :COM5 Connect Try
+[09:35:10:585]BaudRate :9600
+[09:36:50:314]===========Program Loading==========
+[09:36:50:318]Process Count Load
+[09:36:50:320]port setup file load
+[09:36:50:322]IP :192.168.3.1,PORT:9100 Connect Try
+[09:36:50:336]TCP/IP Connect OK
+[09:36:50:337]Serial :COM5 Connect Try
+[09:36:50:338]BaudRate :9600
+[09:37:01:537]QR CODE Print FAIL
+[09:37:04:558]QR CODE Print FAIL
+[09:37:30:550]===========Program Loading==========
+[09:37:30:555]Process Count Load
+[09:37:30:555]port setup file load
+[09:37:30:556]IP :192.168.3.1,PORT:9100 Connect Try
+[09:37:51:652]TCP/IP Connect FAIL
+[09:37:51:653]Serial :COM5 Connect Try
+[09:37:51:653]BaudRate :9600
+[09:37:59:204]IP :192.168.3.1,PORT:9100 Connect Try
+[09:37:59:207]TCP/IP Connect OK
+Log Display Exception
+[09:40:09:957]Serial recive fail
+Log Display Exception
+[09:40:09:972]Serial Command Write fail
+Log Display Exception
+[09:40:12:296]Serial recive fail
+Log Display Exception
+[09:40:12:311]Serial Command Write fail
+Log Display Exception
+[09:40:14:656]Serial recive fail
+Log Display Exception
+[09:40:14:671]Serial Command Write fail
+Log Display Exception
+[09:40:16:986]Serial recive fail
+Log Display Exception
+[09:40:16:999]Serial Command Write fail
+Log Display Exception
+[09:40:19:343]Serial recive fail
+Log Display Exception
+[09:40:19:359]Serial Command Write fail
+Log Display Exception
+[09:40:21:688]Serial recive fail
+Log Display Exception
+[09:40:21:695]Serial Port DisConnected...
+Log Display Exception
+[09:40:21:707]Serial Command Write fail
+Log Display Exception
+[09:40:24:001]Serial recive fail
+Log Display Exception
+[09:40:24:015]Serial Command Write fail
+Log Display Exception
+[09:40:26:330]Serial recive fail
+[09:40:30:414]Serial :COM5 Connect Try
+[09:40:30:416]BaudRate :9600
+[09:59:20:728]===========Program Close==========
+[09:59:23:077]Serial recive fail
+[09:59:23:085]Serial Command Write fail
+[09:59:25:411]Serial recive fail
+[09:59:25:417]Serial Command Write fail
+[09:59:27:790]Serial recive fail
+[09:59:27:797]Serial Command Write fail
+[09:59:30:137]Serial recive fail
+[09:59:30:137]Serial Port DisConnected...
+[10:01:22:987]===========Program Loading==========
+[10:01:22:992]Process Count Load
+[10:01:22:993]port setup file load
+[10:01:22:997]IP :192.168.3.1,PORT:9100 Connect Try
+[10:01:23:014]TCP/IP Connect OK
+[10:01:23:028]Serial :COM5 Connect Try
+[10:01:23:029]BaudRate :9600
+[10:01:25:992]===========Program Close==========
+[10:01:28:295]Serial recive fail
+[10:01:28:303]Serial Command Write fail
+[10:01:30:591]Serial recive fail
+[10:02:39:577]===========Program Loading==========
+[10:02:39:582]Process Count Load
+[10:02:39:583]port setup file load
+[10:02:39:584]IP :192.168.3.1,PORT:9100 Connect Try
+[10:02:39:600]TCP/IP Connect OK
+[10:02:39:601]Serial :COM5 Connect Try
+[10:02:39:604]BaudRate :9600
+[10:02:43:301]===========Program Close==========
+[10:25:06:421]===========Program Loading==========
+[10:25:06:427]Process Count Load
+[10:25:06:429]port setup file load
+[10:25:06:432]IP :192.168.3.1,PORT:9100 Connect Try
+[10:25:06:452]TCP/IP Connect OK
+[10:25:06:453]Serial :COM5 Connect Try
+[10:25:06:454]BaudRate :9600
+[10:29:33:046]===========Program Loading==========
+[10:29:33:051]Process Count Load
+[10:29:33:053]port setup file load
+[10:29:33:054]IP :192.168.3.1,PORT:9100 Connect Try
+[10:29:33:068]TCP/IP Connect OK
+[10:29:33:070]Serial :COM5 Connect Try
+[10:29:33:071]BaudRate :9600
+[10:31:11:896]===========Program Loading==========
+[10:31:11:900]Process Count Load
+[10:31:11:901]port setup file load
+[10:31:11:903]IP :192.168.3.1,PORT:9100 Connect Try
+[10:31:11:917]TCP/IP Connect OK
+[10:31:11:919]Serial :COM5 Connect Try
+[10:31:11:919]BaudRate :9600
+[10:31:41:200]===========Program Close==========
+[11:36:32:632]===========Program Loading==========
+[11:36:32:639]Process Count Load
+[11:36:32:642]port setup file load
+[11:36:32:646]IP :192.168.3.1,PORT:9100 Connect Try
+[11:36:53:792]TCP/IP Connect FAIL
+[11:36:53:794]Serial :COM5 Connect Try
+[11:36:53:796]BaudRate :9600
+[11:36:53:893]SERIAL PORT OPEN FAIL
+[11:37:03:179]===========Program Close==========
+[11:39:22:222]===========Program Loading==========
+[11:39:22:229]Process Count Load
+[11:39:22:231]port setup file load
+[11:39:22:235]IP :192.168.3.1,PORT:9100 Connect Try
+[11:39:43:343]TCP/IP Connect FAIL
+[11:39:43:345]Serial :COM5 Connect Try
+[11:39:43:345]BaudRate :9600
+[11:39:43:384]SERIAL PORT OPEN FAIL
+[11:39:46:398]===========Program Close==========
+[11:41:19:117]===========Program Loading==========
+[11:41:19:123]Process Count Load
+[11:41:19:125]port setup file load
+[11:41:19:128]IP :192.168.3.1,PORT:9100 Connect Try
+[11:41:40:298]TCP/IP Connect FAIL
+[11:41:40:302]Serial :COM5 Connect Try
+[11:41:40:305]BaudRate :9600
+[11:41:40:350]SERIAL PORT OPEN FAIL
+[11:41:44:889]===========Program Close==========

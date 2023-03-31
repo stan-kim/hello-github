@@ -1,0 +1,127 @@
+[13:37:53:532]===========Program Loading==========
+[13:37:53:538]Process Count Load
+[13:37:53:542]port setup file load
+[13:50:36:429]===========Program Loading==========
+[13:50:36:433]Process Count Load
+[13:50:36:434]port setup file load
+[13:54:48:022]===========Program Loading==========
+[13:54:48:025]Process Count Load
+[13:54:48:027]port setup file load
+[13:57:29:745]===========Program Loading==========
+[13:57:29:751]Process Count Load
+[13:57:29:759]port setup file load
+[14:00:40:084]===========Program Loading==========
+[14:00:40:087]Process Count Load
+[14:00:40:089]port setup file load
+[14:01:32:037]===========Program Loading==========
+[14:01:32:042]Process Count Load
+[14:01:32:045]port setup file load
+[14:04:12:926]===========Program Loading==========
+[14:04:12:930]Process Count Load
+[14:04:12:932]port setup file load
+[14:05:20:818]===========Program Loading==========
+[14:05:20:821]Process Count Load
+[14:05:20:823]port setup file load
+[14:05:54:288]===========Program Loading==========
+[14:05:54:292]Process Count Load
+[14:05:54:294]port setup file load
+[14:47:45:177]===========Program Loading==========
+[14:47:45:181]Process Count Load
+[14:47:45:187]port setup file load
+[14:47:51:096]===========Program Close==========
+[15:16:07:690]===========Program Loading==========
+[15:16:07:693]Process Count Load
+[15:16:07:695]port setup file load
+[15:16:19:216]===========Program Loading==========
+[15:16:19:221]Process Count Load
+[15:16:19:223]port setup file load
+[15:18:39:640]===========Program Loading==========
+[15:18:39:644]Process Count Load
+[15:18:39:645]port setup file load
+[15:22:52:331]===========Program Loading==========
+[15:22:52:335]Process Count Load
+[15:22:52:337]port setup file load
+[15:22:59:897]===========Program Loading==========
+[15:22:59:900]Process Count Load
+[15:22:59:902]port setup file load
+[15:23:26:149]===========Program Loading==========
+[15:23:26:154]Process Count Load
+[15:23:26:156]port setup file load
+[15:25:42:285]===========Program Loading==========
+[15:25:42:288]Process Count Load
+[15:25:42:290]port setup file load
+[15:29:25:725]===========Program Loading==========
+[15:29:25:729]Process Count Load
+[15:29:25:734]port setup file load
+[15:30:07:876]===========Program Loading==========
+[15:30:07:880]Process Count Load
+[15:30:07:881]port setup file load
+[15:31:58:549]===========Program Loading==========
+[15:31:58:554]Process Count Load
+[15:31:58:555]port setup file load
+[15:39:30:199]===========Program Loading==========
+[15:39:30:204]Process Count Load
+[15:39:30:205]port setup file load
+[15:45:30:631]===========Program Loading==========
+[15:45:30:634]Process Count Load
+[15:45:30:636]port setup file load
+[15:46:52:185]===========Program Loading==========
+[15:46:52:188]Process Count Load
+[15:46:52:189]port setup file load
+[15:51:06:717]===========Program Loading==========
+[15:51:06:720]Process Count Load
+[15:51:06:721]port setup file load
+[15:52:51:369]===========Program Loading==========
+[15:52:51:373]Process Count Load
+[15:52:51:375]port setup file load
+[16:01:42:598]===========Program Loading==========
+[16:01:42:604]Process Count Load
+[16:01:42:605]port setup file load
+[16:03:59:464]===========Program Loading==========
+[16:03:59:467]Process Count Load
+[16:03:59:469]port setup file load
+[16:04:39:196]===========Program Loading==========
+[16:04:39:202]Process Count Load
+[16:04:39:204]port setup file load
+[16:05:45:365]===========Program Loading==========
+[16:05:45:369]Process Count Load
+[16:05:45:371]port setup file load
+[16:16:45:140]===========Program Loading==========
+[16:16:45:144]Process Count Load
+[16:16:45:146]port setup file load
+[16:19:22:822]===========Program Loading==========
+[16:19:22:825]Process Count Load
+[16:19:22:827]port setup file load
+[16:21:45:629]===========Program Loading==========
+[16:21:45:633]Process Count Load
+[16:21:45:635]port setup file load
+[16:22:14:102]===========Program Loading==========
+[16:22:14:107]Process Count Load
+[16:22:14:109]port setup file load
+[16:22:45:022]===========Program Loading==========
+[16:22:45:026]Process Count Load
+[16:22:45:028]port setup file load
+[16:23:21:278]===========Program Loading==========
+[16:23:21:282]Process Count Load
+[16:23:21:284]port setup file load
+[16:24:54:573]===========Program Loading==========
+[16:24:54:578]Process Count Load
+[16:24:54:580]port setup file load
+[16:27:36:476]===========Program Loading==========
+[16:27:36:481]Process Count Load
+[16:27:36:483]port setup file load
+[16:28:03:023]===========Program Loading==========
+[16:28:03:029]Process Count Load
+[16:28:03:031]port setup file load
+[16:34:25:608]===========Program Loading==========
+[16:34:25:614]Process Count Load
+[16:34:25:616]port setup file load
+[16:36:18:657]===========Program Loading==========
+[16:36:18:660]Process Count Load
+[16:36:18:662]port setup file load
+[16:39:55:156]===========Program Loading==========
+[16:39:55:160]Process Count Load
+[16:39:55:161]port setup file load
+[16:56:05:624]===========Program Loading==========
+[16:56:05:628]Process Count Load
+[16:56:05:629]port setup file load

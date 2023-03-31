@@ -1,0 +1,62 @@
+[16:28:07:512]===========Program Loading==========
+[16:28:07:521]IP :192.168.3.1,PORT:9100 Connect Try
+[16:28:07:532]TCP/IP Connect OK
+[16:51:17:116]===========Program Loading==========
+[16:51:17:126]Process Count Load
+[16:53:11:967]===========Program Loading==========
+[16:53:11:976]Process Count Load
+[16:53:12:027]Process Count file not Exists
+[16:53:12:029]port setup file load
+[16:53:12:051]port setup file not Exists
+[16:53:12:052]IP :192.168.3.1,PORT:9100 Connect Try
+[16:53:12:069]TCP/IP Connect OK
+[16:53:21:946]IP :192.168.3.1,PORT:9100 Connect Try
+[16:53:21:949]TCP/IP Connect OK
+[16:53:23:992]Serial :COM1 Connect Try
+[16:53:23:996]BaudRate :9600
+[16:53:24:043]SERIAL PORT OPEN FAIL
+[16:54:31:754]===========Program Loading==========
+[16:54:31:763]Process Count Load
+[16:54:31:764]port setup file load
+[16:54:31:766]IP :192.168.3.1,PORT:9100 Connect Try
+[16:54:31:780]TCP/IP Connect OK
+[16:55:24:868]===========Program Loading==========
+[16:55:24:879]Process Count Load
+[16:55:24:880]port setup file load
+[16:55:24:882]IP :192.168.3.1,PORT:9100 Connect Try
+[16:55:24:896]TCP/IP Connect OK
+[17:03:56:119]===========Program Loading==========
+[17:03:56:133]Process Count Load
+[17:03:56:135]port setup file load
+[17:03:56:136]IP :192.168.3.1,PORT:9100 Connect Try
+[17:03:56:150]TCP/IP Connect OK
+[17:09:07:513]===========Program Loading==========
+[17:09:07:524]Process Count Load
+[17:09:07:526]port setup file load
+[17:09:07:528]IP :192.168.3.1,PORT:9100 Connect Try
+[17:09:07:540]TCP/IP Connect OK
+[17:31:33:769]===========Program Loading==========
+[17:31:33:780]Process Count Load
+[17:31:33:782]port setup file load
+[17:31:33:787]IP :192.168.3.1,PORT:9100 Connect Try
+[17:31:33:801]TCP/IP Connect OK
+[17:38:24:205]===========Program Loading==========
+[17:38:24:218]Process Count Load
+[17:38:24:220]port setup file load
+[17:38:24:221]IP :192.168.3.1,PORT:9100 Connect Try
+[17:38:24:238]TCP/IP Connect OK
+[17:39:53:728]===========Program Loading==========
+[17:39:53:741]Process Count Load
+[17:39:53:743]port setup file load
+[17:39:53:745]IP :192.168.3.1,PORT:9100 Connect Try
+[17:39:53:761]TCP/IP Connect OK
+[17:42:19:250]===========Program Loading==========
+[17:42:19:260]Process Count Load
+[17:42:19:262]port setup file load
+[17:42:19:263]IP :192.168.3.1,PORT:9100 Connect Try
+[17:42:19:276]TCP/IP Connect OK
+[17:44:08:115]===========Program Loading==========
+[17:44:08:125]Process Count Load
+[17:44:08:126]port setup file load
+[17:44:08:128]IP :192.168.3.1,PORT:9100 Connect Try
+[17:44:08:143]TCP/IP Connect OK

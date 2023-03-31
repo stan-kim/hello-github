@@ -1,0 +1,4 @@
+[09:29:14:942]===========Program Loading==========
+[09:29:14:949]Process Count Load
+[09:29:14:954]port setup file load
+[09:30:22:512]===========Program Close==========

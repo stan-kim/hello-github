@@ -1,0 +1,102 @@
+[15:16:22:846]===========Program Loading==========
+[15:16:22:851]Process Count Load
+[15:16:22:853]port setup file load
+[15:16:22:857]IP :192.168.3.1,PORT:9100 Connect Try
+[15:16:43:963]TCP/IP Connect FAIL
+[15:16:43:965]Serial :COM5 Connect Try
+[15:16:43:966]BaudRate :9600
+[15:16:44:018]SERIAL PORT OPEN FAIL
+[15:35:14:482]===========Program Loading==========
+[15:35:14:487]Process Count Load
+[15:35:14:489]port setup file load
+[15:35:14:491]IP :192.168.3.1,PORT:9100 Connect Try
+[15:35:35:566]TCP/IP Connect FAIL
+[15:35:35:568]Serial :COM5 Connect Try
+[15:35:35:568]BaudRate :9600
+[15:35:35:615]SERIAL PORT OPEN FAIL
+[15:57:40:327]===========Program Loading==========
+[15:57:40:332]Process Count Load
+[15:57:40:336]port setup file load
+[15:57:40:360]IP :192.168.3.1,PORT:9100 Connect Try
+[15:58:01:453]TCP/IP Connect FAIL
+[15:58:01:455]Serial :COM5 Connect Try
+[15:58:01:457]BaudRate :9600
+[15:58:01:579]SERIAL PORT OPEN FAIL
+[15:58:04:233]===========Program Close==========
+[16:12:32:684]===========Program Loading==========
+[16:12:32:690]Process Count Load
+[16:12:32:692]port setup file load
+[16:12:32:695]IP :192.168.3.1,PORT:9100 Connect Try
+[16:12:53:786]TCP/IP Connect FAIL
+[16:12:53:787]Serial :COM5 Connect Try
+[16:12:53:788]BaudRate :9600
+[16:12:53:824]SERIAL PORT OPEN FAIL
+[16:18:31:934]===========Program Loading==========
+[16:18:31:937]Process Count Load
+[16:18:31:939]port setup file load
+[16:18:31:941]IP :192.168.3.1,PORT:9100 Connect Try
+[16:18:53:041]TCP/IP Connect FAIL
+[16:18:53:043]Serial :COM5 Connect Try
+[16:18:53:046]BaudRate :9600
+[16:18:53:082]SERIAL PORT OPEN FAIL
+[16:21:57:972]===========Program Loading==========
+[16:21:57:979]Process Count Load
+[16:21:57:982]port setup file load
+[16:21:57:985]IP :192.168.3.1,PORT:9100 Connect Try
+[16:22:19:075]TCP/IP Connect FAIL
+[16:22:19:077]Serial :COM5 Connect Try
+[16:22:19:077]BaudRate :9600
+[16:22:19:115]SERIAL PORT OPEN FAIL
+[16:23:25:861]===========Program Loading==========
+[16:23:25:868]Process Count Load
+[16:23:25:870]port setup file load
+[16:23:25:873]IP :192.168.3.1,PORT:9100 Connect Try
+[16:23:46:974]TCP/IP Connect FAIL
+[16:23:46:976]Serial :COM5 Connect Try
+[16:23:46:978]BaudRate :9600
+[16:23:47:015]SERIAL PORT OPEN FAIL
+[16:47:34:419]===========Program Loading==========
+[16:47:34:426]Process Count Load
+[16:47:34:430]port setup file load
+[16:47:34:434]IP :192.168.3.1,PORT:9100 Connect Try
+[16:47:55:519]TCP/IP Connect FAIL
+[16:47:55:520]Serial :COM5 Connect Try
+[16:47:55:521]BaudRate :9600
+[16:47:55:561]SERIAL PORT OPEN FAIL
+[16:48:00:061]===========Program Close==========
+[16:51:48:913]===========Program Loading==========
+[16:51:48:919]Process Count Load
+[16:51:48:921]port setup file load
+[16:54:00:572]===========Program Loading==========
+[16:54:00:576]Process Count Load
+[16:54:00:578]port setup file load
+[16:54:20:820]===========Program Close==========
+[16:54:29:489]===========Program Loading==========
+[16:54:29:495]Process Count Load
+[16:54:29:498]port setup file load
+[16:56:15:072]===========Program Loading==========
+[16:56:15:077]Process Count Load
+[16:56:15:079]port setup file load
+[16:56:32:452]===========Program Close==========
+[16:57:24:981]===========Program Loading==========
+[16:57:24:986]Process Count Load
+[16:57:24:989]port setup file load
+[16:57:30:545]===========Program Close==========
+[16:57:38:103]===========Program Loading==========
+[16:57:38:107]Process Count Load
+[16:57:38:110]port setup file load
+[16:58:52:038]===========Program Loading==========
+[16:58:52:045]Process Count Load
+[16:58:52:048]port setup file load
+[17:02:52:514]===========Program Loading==========
+[17:02:52:518]Process Count Load
+[17:02:52:521]port setup file load
+[17:04:40:233]===========Program Loading==========
+[17:04:40:238]Process Count Load
+[17:04:40:241]port setup file load
+[17:08:15:026]===========Program Loading==========
+[17:08:15:030]Process Count Load
+[17:08:15:032]port setup file load
+[17:17:21:635]===========Program Loading==========
+[17:17:21:639]Process Count Load
+[17:17:21:641]port setup file load

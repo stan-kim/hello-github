@@ -1,0 +1,20 @@
+[11:57:17:602]===========Program Loading==========
+[11:57:17:608]Process Count Load
+[11:57:17:615]port setup file load
+[16:17:48:627]===========Program Loading==========
+[16:17:48:633]Process Count Load
+[16:17:48:638]port setup file load
+[16:19:09:876]Serial :COM1 Connect Try
+[16:19:09:877]BaudRate :9600
+[16:20:25:861]Serial :COM1 Connect Try
+[16:20:25:864]BaudRate :9600
+[16:20:30:417]Serial :COM1 Connect Try
+[16:20:30:419]BaudRate :9600
+[16:20:34:982]===========Program Close==========
+[16:20:40:078]===========Program Loading==========
+[16:20:40:084]Process Count Load
+[16:20:40:086]port setup file load
+[16:25:48:218]===========Program Loading==========
+[16:25:48:225]Process Count Load
+[16:25:48:227]port setup file load
+[16:25:52:607]===========Program Close==========

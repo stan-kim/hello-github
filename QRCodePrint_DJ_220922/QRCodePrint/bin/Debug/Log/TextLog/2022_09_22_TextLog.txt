@@ -1,0 +1,133 @@
+[08:18:38:916]===========Program Loading==========
+[08:18:38:930]Process Count Load
+[08:18:38:955][ComMCU Connected]
+[08:18:46:486]Print STG 2 : LOT_STAGE_2 20220922  0000
+[08:18:55:036]Print STG 2 : LOT_STAGE_2 20220922  0001
+[08:19:11:832]Print STG 2 : LOT_STAGE_2 20220922  0002
+[08:20:14:999]===========Program Loading==========
+[08:20:15:003]Process Count Load
+[08:20:15:018][ComMCU Connected]
+[08:20:16:831]Print STG 2 : LOT_STAGE_2 20220922  0003
+[08:20:18:730]Print STG 2 : LOT_STAGE_2 20220922  0004
+[08:21:37:889]===========Program Loading==========
+[08:21:37:894]Process Count Load
+[08:21:37:903][ComMCU Connected]
+[08:21:40:470]===========Program Close==========
+[08:21:57:639]===========Program Loading==========
+[08:21:57:644]Process Count Load
+[08:21:57:649]Design date file load
+[08:22:05:992][ComMCU Connected]
+[08:22:07:613]Print STG 2 : LOT_STAGE_2 20220922  0005
+[08:23:20:566]===========Program Loading==========
+[08:23:20:571]Process Count Load
+[08:23:20:591]Design date file load
+[08:23:22:649][ComMCU Connected]
+[08:23:24:043]Print STG 2 : LOT_STAGE_2 20220922  0006
+[08:45:40:360]===========Program Loading==========
+[08:45:40:367]Process Count Load
+[08:45:40:374]Design date file load
+[08:45:40:390][ComMCU Connected]
+[08:46:16:254]===========Program Loading==========
+[08:46:16:259]Process Count Load
+[08:46:16:263]Design date file load
+[08:46:16:276][ComMCU Connected]
+[08:46:18:051]===========Program Close==========
+[08:51:04:506]===========Program Loading==========
+[08:51:04:513]Process Count Load
+[08:51:04:518]Design date file load
+[08:51:04:532][ComMCU Connected]
+[08:51:17:574]===========Program Close==========
+[08:56:59:596]===========Program Loading==========
+[08:56:59:600]Process Count Load
+[08:56:59:648]Process Count file not Exists
+[08:56:59:651]Design date file load
+[08:56:59:663][ComMCU Connected]
+[08:58:51:597]===========Program Loading==========
+[08:58:51:601]Process Count Load
+[08:58:51:607]Design date file load
+[08:58:51:622][ComMCU Connected]
+[08:59:18:510]===========Program Close==========
+[08:59:22:703]===========Program Loading==========
+[08:59:22:708]Process Count Load
+[08:59:22:712]Design date file load
+[08:59:22:736][ComMCU Connected]
+[08:59:34:565]===========Program Close==========
+[08:59:37:426]===========Program Loading==========
+[08:59:37:430]Process Count Load
+[08:59:37:434]Design date file load
+[08:59:37:444][ComMCU Connected]
+[09:00:16:500]===========Program Loading==========
+[09:00:16:506]Process Count Load
+[09:00:16:511]Design date file load
+[09:00:16:547][ComMCU Connected]
+[09:01:03:694]===========Program Loading==========
+[09:01:03:704]Process Count Load
+[09:01:03:710]Design date file load
+[09:01:03:725][ComMCU Connected]
+[09:01:11:602]===========Program Close==========
+[09:07:46:304]===========Program Loading==========
+[09:07:46:312]Process Count Load
+[09:07:46:318]Design date file load
+[09:07:46:331][ComMCU Connected]
+[09:08:31:040]===========Program Close==========
+[09:08:37:432]===========Program Loading==========
+[09:08:37:436]Process Count Load
+[09:08:37:444]Design date file load
+[09:08:37:455][ComMCU Connected]
+[09:09:26:801]===========Program Close==========
+[09:10:08:902]===========Program Loading==========
+[09:10:08:907]Process Count Load
+[09:10:08:913]Design date file load
+[09:10:08:926][ComMCU Connected]
+[09:10:14:203]===========Program Close==========
+[09:10:17:379]===========Program Loading==========
+[09:10:17:383]Process Count Load
+[09:10:17:389]Design date file load
+[09:10:17:398][ComMCU Connected]
+[09:10:30:956]===========Program Close==========
+[09:10:36:342]===========Program Loading==========
+[09:10:36:347]Process Count Load
+[09:10:36:352]Design date file load
+[09:10:36:374][ComMCU Connected]
+[09:12:58:688]===========Program Loading==========
+[09:12:58:693]Process Count Load
+[09:12:58:699]Design date file load
+[09:12:58:717][ComMCU Connected]
+[09:13:37:564]===========Program Close==========
+[09:14:45:731]===========Program Loading==========
+[09:14:45:735]Process Count Load
+[09:14:45:740]Design date file load
+[09:14:45:749][ComMCU Connected]
+[09:14:57:728]===========Program Close==========
+[09:15:23:163]===========Program Loading==========
+[09:15:23:167]Process Count Load
+[09:15:23:172]Design date file load
+[09:15:25:602][ComMCU Connected]
+[09:15:49:307]===========Program Close==========
+[09:16:14:951]===========Program Loading==========
+[09:16:14:971]Process Count Load
+[09:16:14:976]Design date file load
+[09:16:15:001][ComMCU Connected]
+[09:18:56:023]===========Program Loading==========
+[09:18:56:027]Process Count Load
+[09:18:56:032]Design date file load
+[09:18:56:042][ComMCU Connected]
+[09:19:03:292]===========Program Close==========
+[09:19:33:619]===========Program Loading==========
+[09:19:33:624]Process Count Load
+[09:19:33:631]Design date file load
+[09:19:33:646][ComMCU Connected]
+[09:19:35:170]Print STG 2 : LOT_STAGE_2 20220922  0007
+[09:19:45:135]===========Program Close==========
+[09:20:59:956]===========Program Loading==========
+[09:20:59:960]Process Count Load
+[09:20:59:965]Design date file load
+[09:20:59:974][ComMCU Connected]
+[09:21:02:173]Print STG 2 : LOT_STAGE_2 20220922  0008
+[09:21:09:442]===========Program Close==========
+[09:21:25:646]===========Program Loading==========
+[09:21:25:651]Process Count Load
+[09:21:25:655]Design date file load
+[09:21:25:668][ComMCU Connected]
+[09:21:28:090]Print STG 2 : LOT_STAGE_2 20220922  0009
+[09:21:31:059]===========Program Close==========
